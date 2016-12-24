@@ -1,0 +1,8 @@
+title: Index - Bangbangbangbang.GitHub.io
+description: for my raccoon , Frankie
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
